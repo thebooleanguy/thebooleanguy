@@ -10,6 +10,7 @@ Interested in backend engineering, networking, distributed systems, and a bit of
 
 ### Experiments & Side Quests
 - 🌴 [tropical-ml](https://github.com/thebooleanguy/tropical-ml) — Machine learning experiments with Sri Lankan climate data.
+- 📖 [dictionary-app](https://github.com/thebooleanguy/dictionary-app) — A dictionary app exploring Tries, BK-trees, QuickSort, and LRU caching.
 - 🐈 [catphish](https://github.com/thebooleanguy/catphish) — Detecting suspicious Instagram profiles.
 - 🖼️ [pixel2char](https://github.com/thebooleanguy/pixel2char) — Real-time webcam footage rendered as ASCII art.
 - 🎬 [movie-stash](https://github.com/thebooleanguy/movie-stash) — A CLI movie collection manager with TMDB integration.
