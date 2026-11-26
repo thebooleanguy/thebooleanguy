@@ -2,7 +2,7 @@ I build software and occasionally wonder how everything works under the hood.
 
 Interested in backend engineering, networking, distributed systems, and a bit of everything else.
 
-### Projects
+Projects:
 
 - 🧵 [simple-threadpool](https://github.com/thebooleanguy/simple-threadpool) — A fixed-size Java thread pool with a bounded task queue.
 - 🗄️ [simple-dbpool](https://github.com/thebooleanguy/simple-dbpool) — A database connection pooling library.
